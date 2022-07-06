@@ -1,1 +1,15 @@
-***โครงเว็บ ของโปรเจค front end mentor ระดับง่าย
+# Frontend Mentor - Single price grid component
+
+![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
+
+Thanks for checking out this front-end coding challenge.
+
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+
+**To do this challenge, you need a basic understanding of HTML and CSS.**
+
+### Live web 👋👋
+
+https://startling-klepon-5d7cc3.netlify.app/
