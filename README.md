@@ -1,15 +1,7 @@
-# Frontend Mentor - Single price grid component
+# Frontend Mentor - Loopstudios landing page
 
-![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
-**To do this challenge, you need a basic understanding of HTML and CSS.**
-
-### Live web 👋👋
-
-https://startling-klepon-5d7cc3.netlify.app/
